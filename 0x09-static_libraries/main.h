@@ -1,10 +1,10 @@
 #ifndef MAIN_H
 #define MAIN_H
 /**
- * Header file containing function prototypes
- * used in the static library
+ * File: main
+ *
+ *Desc: header file
  */
-
 int _putchar(char c);
 int _islower(int c);
 int _isalpha(int c);
